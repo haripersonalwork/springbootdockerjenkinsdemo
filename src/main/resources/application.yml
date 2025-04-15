@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springbootdockerjenkinsexample
+
+server:
+  port: 9021
